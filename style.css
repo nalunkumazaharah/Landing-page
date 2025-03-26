@@ -1,0 +1,225 @@
+#mbwzay{
+width: 50px;
+height: 30px;
+}.pricing{
+    display: flex;
+    gap: 140px;
+}
+.pricing a{
+    text-decoration: none;
+    color: black;
+}
+.dit{
+    gap: 2px;
+}.dit{
+    gap: 4px;
+    display: flex;
+}#app-store{
+    width: 150px;
+    height: 50px;
+}#play-store{
+width: 300px;
+height: 100px;
+border-radius: 20px;
+}
+#battery{
+    width: 80px;
+    height: 70px;
+}#graphic{
+    width: 200px;
+    height: 150px;
+}#resource{
+    width: 200px;
+    height: 150px;  
+}#google{
+    width: 200px;
+    height: 150px;
+}#dropbox{
+    width: 200px;
+    height: 150px;
+}#slack{
+    width: 200px;
+    height: 150px;
+}.network{
+    display: flex;
+    gap: 100px;
+    margin-left: 50px;
+}#frame{
+    width: 80px;
+    height: 70px;
+}.you{
+    display: flex;
+    gap: 10px;
+    background-color: white;
+    width: 500px;
+}.roger{
+    display: flex;
+    gap: 90px;
+}.avg{
+    display: flex;
+    gap: 20px;
+    width: 500px;
+    background-color: white;
+}#lady{
+    width: 100px;
+    height: 50px;
+}#pinimg{
+    width: 100px;
+}#man{
+    width: 300px;
+    height: 200px;
+    margin-left: 190px;
+}.media{
+    background-color: white;
+    width: 400px;
+    
+}.assistant{
+    background-color: white;
+    width: 500px;
+    height: 540px;
+}.available{
+    display: flex;
+}.blazing{
+    display: flex;
+    gap: 80px;
+    margin-left: 180px;
+}.software{
+    margin-left: 700px;
+}.vector{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border-color: red;
+    text-align: center;
+}#star{
+    width: 80px;
+    height: 70px;
+}#prod{
+    width: 80px;
+    height: 70px;  
+}#fabrica{
+    width: 80px;
+    height: 70px;   
+}.secured{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    text-align: center;  
+}.support{
+    background-color: white;
+    width: 500px;
+    height: 300px; 
+    text-align: center;  
+}.contet{
+    display: flex;
+    gap: 180px;
+    text-align: center;
+    background-color: rgb(208, 218, 221);
+    padding: 80px;
+    width: 2000px;
+}.product{
+    margin-left: 800px;
+}#imagezfy{
+position: absolute;
+right: 60px;
+top: 60px;
+}.encrypted{
+    background-color: rgb(248, 248, 197);
+    width: 500px;
+    height: 600px;
+    text-align: center; 
+    text-wrap: 30px;
+    padding-bottom: 100px;
+}#CAU{
+    width: 200px;
+    height: 100px;
+}#male{
+    width: 200px;
+    height: 100px;  
+    
+}.imagesq{
+    background-color:white;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}.via{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    padding: 80px;
+}#information{
+    width: 200px;
+    height: 180px;
+}.active{
+    display: flex;
+    gap: 50px;
+}.character{
+    display: flex;
+    gap: 30px;
+}.adipisang{
+    display: flex;
+    gap: 300px;
+    padding-left: 100px;
+}a{
+    text-decoration: none;
+}button{
+    background-color: palevioletred;
+    border-radius: 50px;
+    width: 100px;
+}body{
+    overflow-x: hidden;
+}.feedback{
+    background-color: rgb(209, 243, 243);
+    padding: 1%;
+}.help{
+    display: flex;
+    gap: 20px;
+    margin-left: 500px;
+}#resize{
+    width: 50px;
+    height: 50px;
+}.david{
+    display: flex;
+    gap: 10px;
+}#emoji{
+    width: 100px;
+    height: 80px;
+}.language{
+    display: flex;
+    gap: 20px;
+}#arrow{
+    width: 100px;
+    height: 80px;   
+}#etimg{
+    width: 70px;
+    height: 60px; 
+}#bell{
+    width: 70px;
+    height: 60px;   
+}.amazon{
+    display: flex;
+    gap: 100px;
+}#anjera{
+    width: 90px;
+    height: 70px; 
+    margin-left: 150px;
+}.jorina{
+    margin-left: 150px;
+}.community{
+    display: flex;
+    gap: 100px;
+    background-color: rgb(245, 238, 240);
+    padding: 100px;
+}.figma{
+    transform: rotate(10deg);
+}.social{
+    transform: rotate(10deg);
+}.words{
+    margin-left: 150px;
+}.resevie{
+    display: flex;
+    gap: 100px;
+}.simple{
+    border: solid red;
+    width: 500px;
+}
