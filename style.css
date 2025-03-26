@@ -222,4 +222,16 @@ top: 60px;
 }.simple{
     border: solid red;
     width: 500px;
-}
+}#charge{
+    text-decoration: underline;
+    color: red;
+}#pdct{
+    text-decoration: underline;
+    color: red;
+}#in{
+    text-decoration: underline;
+    color: red;  
+}#cliant{
+    text-decoration: underline;
+    color: red;  
+}#cl
