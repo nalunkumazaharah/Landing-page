@@ -165,7 +165,7 @@ top: 60px;
 }button{
     background-color: palevioletred;
     border-radius: 50px;
-    width: 100px;
+    width: 150px;
 }body{
     overflow-x: hidden;
 }.feedback{
@@ -210,18 +210,24 @@ top: 60px;
     gap: 100px;
     background-color: rgb(245, 238, 240);
     padding: 100px;
-}.figma{
+}
+.best{
+    margin-left: 5%;
+}
+.figma{
     transform: rotate(10deg);
 }.social{
     transform: rotate(10deg);
 }.words{
-    margin-left: 150px;
+    margin-left: 600px;
 }.resevie{
     display: flex;
     gap: 100px;
 }.simple{
-    border: solid red;
+    border: solid rgb(248, 181, 181);
     width: 500px;
+    border-radius: 20px;
+    padding: 30px;
 }#charge{
     text-decoration: underline;
     color: red;
@@ -234,4 +240,61 @@ top: 60px;
 }#cliant{
     text-decoration: underline;
     color: red;  
-}#cl
+}#pink{
+    width: 100px;
+    height: 80px;
+}
+.information{
+    display: flex;
+  gap: 150px;
+  margin-left: 260px;
+}.stock{
+    display: flex;
+    border:solid white;
+    border-color: white;
+    box-shadow: white;
+}#yellow{
+  width: 80px;
+  height: 70px;
+}#cappicon{
+    width: 40px;
+    height: 30px;
+}.btn{
+color: black;
+}.gift{
+    display: flex;
+    gap: 30px;
+}.web{
+    display: flex;
+    gap: 50px;
+    margin-top: 5%;
+    background-color:white;
+}
+.web img{
+    width:20%;
+    margin-left:20%;
+    height:20%;
+
+
+}
+.cards{
+    margin-left: 15%;
+    margin-top: 3%;
+}#jpg{
+    width: 30px;
+    height: 25px;
+}.insurance{
+    display: flex;
+    gap: 80px;
+}
+.upper-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top:5%;
+    background-color: rgb(11, 11, 71);
+    color:white;
+}
+.upper-footer a{
+    color:white;
+    line-height: 1.8;
+}
